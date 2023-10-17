@@ -1,7 +1,7 @@
 # Puffin-Internet-Teminal-Demo
 
-to install
+TO INSTALL:
+git clone https://github.com/SF-Rocker/Puffin-Internet-Teminal-Demo.git
+
 makepkg PKGBUILD
-or build from source in Bin Directory
-makepkg -si
 
