@@ -2,7 +2,7 @@
 
 TO INSTALL:
 ``` bash
-git clone https://github.com/SF-Rocker/Puffin-Internet-Teminal-Demo.git
+git clone https://github.com/SF-Rocker/Puffin-Internet-Terminal-Demo.git
 ```
 ``` bash
 makepkg PKGBUILD
