@@ -9,7 +9,7 @@ makepkg PKGBUILD
 ```
 cd into directory and copy file location of the tar.zst and paste with pacman install
 ``` bash
-sudo pacman -U /home/$USER/Downloads/Puffin-Internet-Terminal-Demo/puffin-internet-terminal-demo-bin-8.2.4.705-1-aarch64.pkg.tar.zst
+sudo pacman -U puffin-internet-terminal-demo-bin-8.2.4.705-1-aarch64.pkg.tar.zst
 ```
 This is for AArch64
 Works on Manjaro on aarch64 architecture
