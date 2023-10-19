@@ -7,6 +7,7 @@ git clone https://github.com/SF-Rocker/Puffin-Internet-Terminal-Demo.git
 ``` bash
 makepkg PKGBUILD
 ```
+cd into directory and copy file location of the tar.zst and paste with pacman install
 ``` bash
 sudo pacman -U /home/$USER/Downloads/Puffin-Internet-Terminal-Demo/puffin-internet-terminal-demo-bin-8.2.4.705-1-aarch64.pkg.tar.zst
 ```
